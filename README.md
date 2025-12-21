@@ -61,12 +61,14 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **TABULAR COLUMN: 1**
 To measure I L
+![IMG-20251221-WA0043 1](https://github.com/user-attachments/assets/964fe567-cc9c-4910-befd-06d6658f8812)
 
 Vi (volts)	IL (amps)
 
 **TABULAR COLUMN:2**
 
 To measure RTh or RN
+![IMG-20251221-WA0044 1](https://github.com/user-attachments/assets/95c44955-0e35-4380-b010-f7523c067bb9)
 
 Vi (volts)	RTh (Ω)
 
@@ -74,6 +76,7 @@ Vi (volts)	RTh (Ω)
 **TABULAR COLUMN:3**
 
 To measure IN or Isc
+![IMG-20251221-WA0045 1](https://github.com/user-attachments/assets/415a1f74-a14d-4c22-b2d6-e4af84967525)
 
 Vi (volts)	IN (amps)
 	
