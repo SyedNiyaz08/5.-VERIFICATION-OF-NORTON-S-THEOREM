@@ -27,20 +27,8 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 ![WhatsApp Image 2025-12-21 at 21 31 05_0fa705db](https://github.com/user-attachments/assets/1f77a818-4c04-4dfd-81f7-8afd28465359)
 ![WhatsApp Image 2025-12-21 at 21 44 52_cf1bb388](https://github.com/user-attachments/assets/27c0a33f-2216-4640-bcab-830d444bee43)
 
-**TABULAR COLUMN:**
 
 
-![WhatsApp Image 2025-12-22 at 22 48 07_f23e1004](https://github.com/user-attachments/assets/e6e35e6e-76d5-4241-9547-3f41de9481a3)
-
-**CALCULATION:**
-
-
-![WhatsApp Image 2025-12-22 at 22 49 04_d4c5716e](https://github.com/user-attachments/assets/fadf3b2e-2888-4080-8959-b6209e287e9b)
-
-
-![WhatsApp Image 2025-12-22 at 22 49 43_45a73df5](https://github.com/user-attachments/assets/08ff8bea-f045-4b1d-8ffa-4462eff7b8b7)
-
-	
 **PROCEDURE:**
 
 1.	Make the connections as per the Circuit Diagram:1
@@ -103,6 +91,16 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
 
+![WhatsApp Image 2025-12-22 at 22 49 04_e9ad6485](https://github.com/user-attachments/assets/54f497d8-b501-4ceb-8568-c4cce1c42b72)
+
+
+![WhatsApp Image 2025-12-22 at 22 49 43_cfe17494](https://github.com/user-attachments/assets/40962929-a856-4156-8a6f-b5a7b6909ff1)
+
+**MARK SPLITUP:**
+
+
+
+![WhatsApp Image 2025-12-22 at 22 55 03_e8c1a2b1](https://github.com/user-attachments/assets/694b22e2-18b5-4423-978d-b463995c7c7c)
 
 **RESULT:**
 
