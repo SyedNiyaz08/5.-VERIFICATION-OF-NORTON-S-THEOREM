@@ -1,5 +1,8 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
+SYED NIYAZ A
+212225060284
+
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
